@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain_google_genai
-langchain.schema.output_parser
-langchain_core.prompts
-streamlit_mic_recorder
-gtts
-gtts.lang
-os
